@@ -4,7 +4,7 @@ A small endless runner built with HTML, CSS, and vanilla JavaScript. Guide the f
 
 ## Live Demo
 
-Play it here: `https://biancakuriki.github.io/fox-game/`
+Play it here: [biancakuriki.github.io/fox-game](https://biancakuriki.github.io/fox-game/)
 
 ## Play Locally
 
@@ -39,4 +39,4 @@ No build step is required.
 
 - A modern browser with Canvas support is recommended.
 - If assets do not appear, make sure the `assets/` folder stays next to `index.html`.
-- Repository: `https://github.com/biancakuriki/fox-game`
+- Repository: [github.com/biancakuriki/fox-game](https://github.com/biancakuriki/fox-game)
