@@ -2,6 +2,10 @@
 
 A small endless runner built with HTML, CSS, and vanilla JavaScript. Guide the fox over incoming obstacles, build up your score, and try to beat your best run.
 
+## Live Demo
+
+Play it here: `https://biancakuriki.github.io/fox-game/`
+
 ## Play Locally
 
 No build step is required.
@@ -35,3 +39,4 @@ No build step is required.
 
 - A modern browser with Canvas support is recommended.
 - If assets do not appear, make sure the `assets/` folder stays next to `index.html`.
+- Repository: `https://github.com/biancakuriki/fox-game`
