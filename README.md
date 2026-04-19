@@ -1,25 +1,37 @@
-# Dino Game
+# Fox Game
 
-A simple clone of the Chrome Dino game built with HTML5 Canvas and JavaScript.
+A small endless runner built with HTML, CSS, and vanilla JavaScript. Guide the fox over incoming obstacles, build up your score, and try to beat your best run.
 
-## How to Play
+## Play Locally
 
-- Open `index.html` in a web browser.
-- Press Space to make the dinosaur jump over cacti.
-- Avoid obstacles to keep playing.
-- Score increases as you survive longer.
-- When you hit an obstacle, press Space to restart.
+No build step is required.
+
+1. Open `index.html` in your browser.
+2. Press `Space` to start jumping.
+3. Press `Space` again after a crash to restart.
+
+## Controls
+
+- `Space`: jump
+- `Space` on game over: restart
 
 ## Features
 
-- Basic jumping mechanics
-- Randomly generated obstacles (cacti and birds)
-- Increasing game speed
-- Simple collision detection
-- Score tracking
+- Fox runner character with animated sprites
+- Random obstacle patterns with cacti and birds
+- Difficulty that ramps up as your score increases
+- Best score saved in `localStorage`
+- Milestone celebration banners during longer runs
+- Lightweight setup with no dependencies
 
-## Troubleshooting
+## Project Structure
 
-- Ensure your browser supports HTML5 Canvas.
-- If the game doesn't load, check the console for JavaScript errors.
-- For best experience, use a modern web browser.
+- `index.html`: game shell and HUD
+- `style.css`: layout and visual styling
+- `script.js`: gameplay loop, physics, obstacles, scoring, and audio
+- `assets/`: SVG sprites for the fox and obstacles
+
+## Notes
+
+- A modern browser with Canvas support is recommended.
+- If assets do not appear, make sure the `assets/` folder stays next to `index.html`.
