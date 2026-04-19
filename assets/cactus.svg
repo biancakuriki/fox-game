@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 120">
+  <defs>
+    <linearGradient id="cactusBody" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#8fe08a"/>
+      <stop offset="100%" stop-color="#54ba68"/>
+    </linearGradient>
+  </defs>
+  <rect x="31" y="23" width="34" height="78" rx="17" fill="url(#cactusBody)"/>
+  <rect x="16" y="46" width="15" height="34" rx="7.5" fill="url(#cactusBody)"/>
+  <rect x="65" y="39" width="15" height="37" rx="7.5" fill="url(#cactusBody)"/>
+  <path d="M40 24 Q48 18 56 24" stroke="#baf0b4" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M48 34 L48 93" stroke="#6cd37a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M23 52 L23 72" stroke="#6cd37a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M73 44 L73 68" stroke="#6cd37a" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="41" cy="52" rx="4.5" ry="5.5" fill="#2f3140"/>
+  <ellipse cx="55" cy="52" rx="4.5" ry="5.5" fill="#2f3140"/>
+  <circle cx="40" cy="50.5" r="1" fill="#ffffff"/>
+  <circle cx="54" cy="50.5" r="1" fill="#ffffff"/>
+  <circle cx="34" cy="59" r="3" fill="#ffbdd0" opacity="0.95"/>
+  <circle cx="62" cy="59" r="3" fill="#ffbdd0" opacity="0.95"/>
+  <path d="M42 64 Q48 69 54 64" stroke="#356f4a" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <circle cx="37" cy="13" r="7" fill="#ff9fcb"/>
+  <circle cx="48" cy="10" r="8" fill="#ffd2e6"/>
+  <circle cx="59" cy="13" r="7" fill="#ff9fcb"/>
+  <path d="M48 16 L48 23" stroke="#77c56b" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="48" cy="113" rx="24" ry="4" fill="#cddcbf" opacity="0.35"/>
+</svg>

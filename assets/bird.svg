@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80">
+  <defs>
+    <linearGradient id="birdBody" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#b9f0ff"/>
+      <stop offset="100%" stop-color="#7bc8ff"/>
+    </linearGradient>
+    <linearGradient id="birdWing" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#8fd6ff"/>
+      <stop offset="100%" stop-color="#5ea8ef"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="66" cy="42" rx="28" ry="22" fill="url(#birdBody)"/>
+  <circle cx="40" cy="35" r="16" fill="url(#birdBody)"/>
+  <path d="M53 38 C71 18 92 20 102 34 C85 35 69 44 58 54 Z" fill="url(#birdWing)"/>
+  <path d="M17 41 C12 35 12 28 19 24 C28 26 30 33 28 39 Z" fill="#8dcfff"/>
+  <path d="M24 36 C16 29 17 18 27 16 C35 20 35 31 31 36 Z" fill="#a6e3ff"/>
+  <ellipse cx="39" cy="36" rx="11" ry="12" fill="#ffffff"/>
+  <ellipse cx="38" cy="35" rx="4.6" ry="5.6" fill="#2f3140"/>
+  <circle cx="37" cy="33.5" r="1.2" fill="#ffffff"/>
+  <path d="M21 39 L31 44 L22 49 Z" fill="#ffcf76"/>
+  <circle cx="29" cy="47" r="2.4" fill="#ffb4ca" opacity="0.95"/>
+  <circle cx="48" cy="49" r="2.4" fill="#ffb4ca" opacity="0.95"/>
+  <path d="M52 54 Q61 60 70 54" stroke="#5b93d7" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M70 61 L67 69" stroke="#f1a86b" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M79 60 L76 68" stroke="#f1a86b" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="62" cy="76" rx="24" ry="3.5" fill="#cfdae6" opacity="0.35"/>
+</svg>
